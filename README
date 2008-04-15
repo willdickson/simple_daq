@@ -1,0 +1,25 @@
+simple_daq
+==========
+
+simple_daq provides a simple API for acquisition of data from comedi
+supported daq cards. In addition simple_daq provides two commandline
+programs: daq-acquire for acquiring data and plot-daq for displaying
+data.
+
+
+Installation
+
+  * Installation instructions can be found in the INSTALL file
+
+
+Configuration
+
+  * a sample configuration file is given in simple_daq/sample_config
+
+Author
+
+  * Will Dickson (wbd@caltech.edu)
+
+
+
+

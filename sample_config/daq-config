@@ -1,0 +1,8 @@
+# daq_acquire configuration file
+device /dev/comedi0
+sample_num 5000
+sample_freq 5000
+channels 0 1 2 3 4 5 
+gains 0
+subdev 0
+aref diff
