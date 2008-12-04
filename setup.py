@@ -23,6 +23,7 @@ License along with simple_step.  If not, see
 from setuptools import setup, find_packages
 
 """
+from setuptools import setup, find_packages
 
 setup(name='simple_daq',
       version='0.1',
