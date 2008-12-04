@@ -5,6 +5,7 @@ Requirements:
 -------------
 numpy
 comedi
+matplotlib (optional - required for plot-daq)
 
 Installation:
 -------------
